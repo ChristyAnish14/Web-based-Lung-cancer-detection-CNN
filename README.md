@@ -1,0 +1,2 @@
+# Web-based-Lung-cancer-detection-CNN
+A WEB-BASED SOLUTION FOR EARLY LUNG CANCER DETECTION
